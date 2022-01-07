@@ -1,0 +1,29 @@
+/****************  media ********************/
+
+@media (max-width: 576px) {
+
+}
+
+
+@media (max-width: 768px) {
+    .main .nav .header-toggle{
+        display: block;
+        float: left;
+        margin-top: 10px;
+    }
+    .boxes-row-trending .box .title-box{
+         width: 50%;
+     }
+    .boxes-row-trending .box .icon-row .btn-group .btn{
+        width: 50%;
+    }
+}
+
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
